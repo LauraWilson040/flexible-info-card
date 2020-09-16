@@ -21,6 +21,12 @@ h2 {
   font-weight: bold;
 }
 
+.hgroup,
+p,
+a {
+  display: inline-flex;
+}
+
 a {
   background-color: #444;
   padding: .6rem;
