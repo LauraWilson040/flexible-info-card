@@ -32,6 +32,7 @@ a {
 ul {
   justify-content: space-between;
   align-items: stretch;
+  flex-direction: row;
   display: flex;
 }
 
